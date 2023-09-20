@@ -75,5 +75,5 @@ export const DarkModeProvider = ({ children }) => {
 
 - Website - [seecountries](https://seecountries.netlify.app)
 - Frontend Mentor - [@SamuelWoniowei](https://www.frontendmentor.io/profile/SamuelWoniowei)
-- Twitter - [@yourusername](https://www.twitter.com/_sammyofficial)
+- Twitter - [@_sammyofficial](https://www.twitter.com/_sammyofficial)
 
