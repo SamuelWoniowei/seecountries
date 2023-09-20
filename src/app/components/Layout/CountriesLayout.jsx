@@ -1,4 +1,4 @@
 export const CountriesLayout = ({ children }) => {
-  return <div className="flex flex-row justify-around flex-wrap gap-2">{children}</div>;
+  return <div className="flex flex-wrap ">{children}</div>;
 };
 
